@@ -21,6 +21,8 @@ You can find the dataset link on the following site: <https://archive.ics.uci.ed
 * Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
 ## Launching the application with the Django API
-To make predictions with the application of the model generated via the API, simply execute the following command : 
-[python manage.py runserver]
+To make predictions with the application of the model generated via the API, simply execute the following command :
+```
+python manage.py runserver
+ ```
 
